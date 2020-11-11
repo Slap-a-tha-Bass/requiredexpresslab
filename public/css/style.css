@@ -1,0 +1,10 @@
+h1 {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 36px;
+    border: 2px solid red;
+    border-radius: 10px;
+}
+body {
+    background-color: black;
+}
